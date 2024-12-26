@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Avinashhmavi
+- 👀 I’m interested in Data analytics and Marketing 
+- 🌱 I’m currently learning AI, Digital marketing, Deep learning 
+- 💞️ I’m looking to collaborate on Enterprineurship projects and Gen AI projects
+- 📫 Reach me : avi.hm24@gmail.com
+- ⚡ Fun fact: I'm on a mission to join the elite club of innovators, building a startup that could one day make me a billionaire. Watch out, world—future tycoon in the making!
