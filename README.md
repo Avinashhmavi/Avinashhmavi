@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avinashhmavi
+- 👋 Hi, I’m @Avinash HM
 - 👀 I’m interested in Data analytics and Marketing 
 - 🌱 I’m currently learning AI, Digital marketing, Deep learning 
 - 💞️ I’m looking to collaborate on Enterprineurship projects and Gen AI projects
