@@ -22,7 +22,8 @@
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=Microsoft-Excel&logoColor=white)  
 ![SPSS](https://img.shields.io/badge/SPSS-%230073C1.svg?style=flat&logo=IBM&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
 
 
 ---
