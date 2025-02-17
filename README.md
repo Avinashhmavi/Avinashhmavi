@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 
 - 👋 Hi, I’m @Avinash HM
 - 👀 I’m interested in Data analytics and Marketing 
@@ -15,14 +15,15 @@
 
 
 #  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=MySQL&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=Microsoft-Excel&logoColor=white)  
+![SPSS](https://img.shields.io/badge/SPSS-%230073C1.svg?style=flat&logo=IBM&logoColor=white) !
+[NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
 
 
----
-
-## 🎓 Education:
-- **MBA, Business Analytics & Marketing** – IFIM College, Bengaluru *(2024 - 2025)*  
-- **B.E., Electronics & Communication Engineering** – Sapthagiri College of Engineering *(2019 - 2023)*  
 
 ---
 
