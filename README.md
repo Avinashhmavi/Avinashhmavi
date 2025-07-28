@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
 - 👋 Hi, I’m @Avinash HM
-- 👀 I’m interested in Data analytics and Marketing 
-- 🌱 I’m currently learning AI, Digital marketing, Deep learning 
+- 👀 I’m interested in Data analytics,Ai and Marketing 
+- 🌱 I’m currently learning AI, Digital marketing, Deep learning ,LLM's 
 - 🚀 Exploring AI-driven entrepreneurship and innovative business solutions.
 - ⚡ Fun fact: I'm on a mission to join the elite club of innovators, building a startup that could one day make me a billionaire. Watch out, world—future tycoon in the making!
 - 🔍 Passionate about Data Analytics, AI, and Strategic Marketing.  
