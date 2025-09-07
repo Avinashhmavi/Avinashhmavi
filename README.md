@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi there 👋, I'm Avinash HM </h1>
 <h3 align="center">🚀 AI Engineer | LLMs | AI Agents | Data Analytics | Entrepreneur in the Making</h3>
 
