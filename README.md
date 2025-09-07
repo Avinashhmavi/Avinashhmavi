@@ -54,7 +54,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Avinashhmavi&show_icons=true&theme=radical)  
+![](https://github-contributor-stats.vercel.app/api?username=Avinashhmavi&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Avinashhmavi&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashhmavi&layout=compact&theme=radical)  
 
