@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m @Avinash HM  
 - 👀 I’m interested in Data Analytics, AI, and Marketing  
-- 🌱 I’m currently working as an **AI Engineer**, exploring advanced topics like **AI Agents, MCP (Model Context Protocol), and Quantization**  
-- 🚀 Passionate about building **AI-driven products**, scalable solutions, and entrepreneurial ventures  
+- 🌱 I’m currently working as an **AI Engineer**, with hands-on experience in **LLMs, AI Agents, MCP (Model Context Protocol), and Model Quantization**  
+- 🚀 Recognized as **Runner-up at Agentic AI Day 2025 (powered by Google Cloud)** for building an innovative AI platform  
 - ⚡ Fun fact: On a mission to join the elite club of innovators, building a startup that could one day make me a billionaire. Watch out, world—future tycoon in the making!  
-- 🔍 Skilled in **Machine Learning, Deep Learning, AI Agents, and Data Analytics**  
-- 💡 Proficient in **Python, ML frameworks, Data Engineering tools, and decision-making through analytics**  
+- 🔍 Core expertise in **Machine Learning, Deep Learning, NLP, LangChain, LangGraph, RAG, Edge AI Optimization, and Workflow Automation**  
+- 💡 Skilled in Python, ML frameworks, Data Engineering tools, and data-driven decision-making  
 
 ---
 
@@ -25,6 +25,9 @@
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-%234285F4.svg?style=flat&logo=OpenAI&logoColor=white)  
 ![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-%23FF007F.svg?style=flat&logo=protocols&logoColor=white)  
 ![Quantization](https://img.shields.io/badge/Quantization-%23217346.svg?style=flat&logo=numpy&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?style=flat&logo=chainlink&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF5733.svg?style=flat&logo=graphql&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-%2300C853.svg?style=flat&logo=knowledgebase&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=MySQL&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=Microsoft-Excel&logoColor=white)  
