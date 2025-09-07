@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-   alt="Avinash HM | AI Engineer" width="100%" />
+   alt=<
+"Avinash HM | AI Engineer" width="100%" />
 </p>
 
 <h1 align="center"> Hi there 👋, I'm Avinash HM </h1>
