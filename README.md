@@ -63,5 +63,5 @@
 [![Hackathon](https://img.shields.io/badge/Runner--up-Agentic%20AI%20Day%202025%20%7C%20Google%20Cloud-orange?style=for-the-badge&logo=googlecloud&logoColor=white)](https://drive.google.com/file/d/1ZZLwb_Li8d1jI4zrDRcudGF_DnwgpwXn/view?usp=drivesdk)
 
 ---
-
-🔥 **Let’s Connect & Build the Future Together!**
+⭐️ *"Innovation starts with curiosity, but it takes persistence to change the world."*  
+🔥 Let’s build the future together!
