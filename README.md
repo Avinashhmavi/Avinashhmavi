@@ -56,13 +56,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=Avinashhmavi&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avinashhmavi&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashhmavi&layout=compact&theme=radical)  
-
----
-
 ### 🏆 Achievements Badge
 [![Hackathon](https://img.shields.io/badge/Runner--up-Agentic%20AI%20Day%202025%20%7C%20Google%20Cloud-orange?style=for-the-badge&logo=googlecloud&logoColor=white)](https://drive.google.com/file/d/1ZZLwb_Li8d1jI4zrDRcudGF_DnwgpwXn/view?usp=drivesdk)
 
