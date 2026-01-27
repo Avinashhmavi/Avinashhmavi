@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinashavi__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-hm007) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avi.hm24@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://avihm24.wixsite.com/avinash-hm-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://avihm.site)
 <br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
 <b>I love connecting with different people</b> 
