@@ -11,8 +11,7 @@
 - 💡 Core expertise in **Machine Learning, Deep Learning, NLP, LangChain, LangGraph, RAG, Edge AI Optimization, and Workflow Automation**  
 - 📈 Passionate about building **AI-driven products** that create real-world impact  
 - ⚡ Fun fact: I’m on a mission to join the **elite club of innovators**, building a startup that could one day make me a billionaire
-- 🧑‍💻 My Portfolio: https://avihm.site
-- 📧 Email: contact@avihm.site
+- 📧 Email: avi.hm24@gmail.com
 - :octopus: Multiple works, No problem I'm a **Multi Tasker**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=👨‍💻+Currently+working+as+an+AI+Engineer;🏆+Runner-up+at+Agentic+AI+Day+2025+(Google+Cloud);💡+Expertise:+ML,+DL,+NLP,+LangChain,+LangGraph,+RAG;⚡+Exploring+AI+Agents,+MCP,+and+Quantization;📈+Building+AI-driven+products+with+real-world+impact;🔥+Future+tycoon+in+the+making!)](https://git.io/typing-svg)
