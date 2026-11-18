@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋, I'm Avinash HM </h1>
-<h3 align="center">🚀 AI Engineer | LLMs | AI Agents | Data Analytics | Entrepreneur in the Making</h3>
+<h3 align="center">🚀 AI Architect | LLMs | AI Agents | Data Engineer | Entrepreneur in the Making</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F72A8F&center=true&vCenter=true&width=600&lines=AI+Engineer;LLMs+%7C+AI+Agents+%7C+NLP;Future+Entrepreneur;Data+Analytics+%26+Machine+Learning)](https://git.io/typing-svg)
 
 ---
 
 ## 💫 About Me:
-- 👨‍💻 Currently working as an **AI Engineer**, exploring **LLMs, AI Agents, MCP (Model Context Protocol), and Quantization**  
+- 👨‍💻 Currently working as an **AI Architect**, exploring **LLMs, AI Agents, MCP (Model Context Protocol), and Quantization**  
 - 🏆 **Runner-up at Agentic AI Day 2025 (Google Cloud)** – built an innovative AI platform  
 - 💡 Core expertise in **Machine Learning, Deep Learning, NLP, LangChain, LangGraph, RAG, Edge AI Optimization, and Workflow Automation**  
 - 📈 Passionate about building **AI-driven products** that create real-world impact  
